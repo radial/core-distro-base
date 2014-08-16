@@ -5,7 +5,7 @@ Base image for all the [regional builds](https://github.com/radial/core-distro).
 This base image is the official Ubuntu LTS image plus:
 
 * Multiverse repository enabled
-* Bash color support in terminal
+* Bash color support and command completion in terminal
 * Locale settings
 
 Alternate locales can be added upon request.
